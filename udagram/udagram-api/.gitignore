@@ -39,5 +39,5 @@ venv/
 .env
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
-!.elasticbeanstalk/*.yml
+!.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
