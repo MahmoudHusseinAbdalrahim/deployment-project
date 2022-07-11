@@ -63,7 +63,7 @@ we use npm install to install dependiences of this project and can use npm run s
         3- eb use udagram-api-dev1 to make our app use the specified environment
         4- set environment variables by using setenv key=value
         5- eb deply to deploy the udagram-api to elastic beanstalk
-        6- server running on the link<http://udagram-api-dev1.eba-m3sptrmy.us-east-1.elasticbeanstalk.com/>
+        6- server running on the link<http://udagram-api-dev1.eba-hcxhinqf.us-east-1.elasticbeanstalk.com/>
         
     -AWS s3 for web hosting
         1- navigate to the aws s3 console 

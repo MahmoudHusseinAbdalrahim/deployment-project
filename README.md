@@ -34,7 +34,7 @@ This application is provided as an alternative starter project and we will use i
 
 Provision the necessary AWS services needed for running the application:
 
-1. In AWS, provision a publicly available RDS database running Postgres. <http://database-1.cghy18cmuyj7.us-east-1.rds.amazonaws.com>
+1. In AWS, provision a publicly available RDS database running Postgres. <database-1.cghy18cmuyj7.us-east-1.rds.amazonaws.com>
 1. In AWS, provision a s3 bucket for hosting the uploaded files. <http://randomudagram12398.s3-website-us-east-1.amazonaws.com>
 1. Export the ENV variables needed or use a package like [dotnev](https://www.npmjs.com/package/dotenv)/.
 1. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install`. After installation is done start the api in dev mode with `npm run dev`.
